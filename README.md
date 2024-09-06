@@ -1,2 +1,2 @@
 # ThesisPythonTool
-External Python tool for importing asstets 
+External Python tool for importing asstets into Unreal Engine.
