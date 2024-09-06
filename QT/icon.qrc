@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="addIcons">
+    <file>store.png</file>
+  </qresource>
+</RCC>
